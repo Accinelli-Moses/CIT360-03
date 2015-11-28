@@ -38,3 +38,11 @@ I think explained it really well.
 
 https://www.youtube.com/watch?v=wbB3lVyUvAM&list=PL6aYRL6CQzVmyZFm6VZMZdwWgrrgc9unc 
 
+Week of Oct 18th: 
+This week I have been working on understanding Android handlers. I've never worked with Android and I'm a little scared that I may not grasp the concept. In our meeting, we have been able to go over quite a bit of things and I like how our team is really on top of things. Each person has something to contribute and that's really good. 
+
+Week of Oct 25th:
+This week I have been working on my presentation, but I just feel like I'm not able to find time. I've always been able to make time for school, but this semester seems to be really tough as my wife is taking some really super difficult classes. This is my last semester and I'm afriad that not having a job yet and my wife's super hard load will pull me away from what I'm needing to complete. I'm so close to getting my degree and being done. I just hope I can get back on track. I feel like the semester is getting away from me. I couldn't make it to the team meeting as I had a few out of town interviews. 
+
+Week of Nov 1st:
+Brother Tuckett got a hold of me and wondered why my portfolio hasn't been submitted yet. I did let him know that I'm struggling and that I've been really focusing on looking for a job as I'm not working right now. I just really hope I can find one and begin recovering from the money lost and catch up on bills. I'm tryin gto keep my journal up to date, but it's tough. I've been working on my presentation items too, but GITHUB is being really difficult with me. I'm not sure how to resolve it. I can't get anything to commit and then pull. 
